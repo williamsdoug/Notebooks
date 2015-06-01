@@ -6,6 +6,7 @@ Code for identifying tweets with drug names and medical symptom keywords
 - [Sample Analysis](http://nbviewer.ipython.org/github/williamsdoug/Notebooks/blob/master/TweetMed/AnalyzeMedTweets.ipynb)
 - [References](http://nbviewer.ipython.org/github/williamsdoug/Notebooks/blob/master/TweetMed/_README.ipynb)
 - [FDA Orangebook](http://nbviewer.ipython.org/github/williamsdoug/Notebooks/blob/master/TweetMed/OrangeBook.ipynb)
+- [Medical Symptoms List](http://nbviewer.ipython.org/github/williamsdoug/Notebooks/blob/master/TweetMed/SymptomsList.ipynb)
 - [Tweet Downloader](http://nbviewer.ipython.org/github/williamsdoug/Notebooks/blob/master/TweetMed/TweetDownload-Generic.ipynb)
 
 Lists of drug names contained in XX.p
