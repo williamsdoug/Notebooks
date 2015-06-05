@@ -3,7 +3,8 @@ TweetMed
 
 Code for identifying tweets with drug names and medical symptom keywords
 
-- [Sample Tweets - Cleanse Workflow](http://nbviewer.ipython.org/github/williamsdoug/Notebooks/blob/master/TweetMed/CleanseMedTweets.ipynb)
+- [Cleanse Workflow - Includes Sample Tweets](http://nbviewer.ipython.org/github/williamsdoug/Notebooks/blob/master/TweetMed/CleanseMedTweets.ipynb)
+- [Topic Modeling and Clustering](http://nbviewer.ipython.org/github/williamsdoug/Notebooks/blob/master/TweetMed/TopicModelingAndClustering.ipynb)
 - [References](http://nbviewer.ipython.org/github/williamsdoug/Notebooks/blob/master/TweetMed/_README.ipynb)
 - [FDA Orangebook](http://nbviewer.ipython.org/github/williamsdoug/Notebooks/blob/master/TweetMed/OrangeBook.ipynb)
 - [Medical Symptoms List](http://nbviewer.ipython.org/github/williamsdoug/Notebooks/blob/master/TweetMed/SymptomsList.ipynb)
@@ -16,3 +17,4 @@ Changes
 =======
 
 5/31/15 - Created
+6/4/15 - Updated, added Topic Modeling and Clustering
